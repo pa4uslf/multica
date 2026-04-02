@@ -1,7 +1,5 @@
 # Multica
 
-Forked repository. Upstream does not provide an explicit open source license.
-
 **Multiplexed Information and Computing Agent**
 
 一個原生桌面客戶端，透過視覺化介面將程式智能體的能力帶給每一個人。
