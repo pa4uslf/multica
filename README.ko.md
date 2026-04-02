@@ -1,5 +1,7 @@
 # Multica
 
+Forked repository. Upstream does not provide an explicit open source license.
+
 **Multiplexed Information and Computing Agent**
 
 시각적 인터페이스를 통해 코딩 에이전트의 기능을 모든 사람에게 제공하는 네이티브 데스크톱 클라이언트.
