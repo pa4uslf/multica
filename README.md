@@ -1,7 +1,5 @@
 # Multica
 
-Forked repository. Upstream does not provide an explicit open source license.
-
 **Multiplexed Information and Computing Agent**
 
 A native desktop client that brings coding agent capabilities to everyone through a visual interface.
