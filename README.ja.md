@@ -1,7 +1,5 @@
 # Multica
 
-Forked repository. Upstream does not provide an explicit open source license.
-
 **Multiplexed Information and Computing Agent**
 
 ビジュアルインターフェースを通じて、コーディングエージェントの能力をすべての人に届けるネイティブデスクトップクライアント。
